@@ -13,7 +13,7 @@ Grappling hook project used during the second unity lecture in the Simulation an
 * Planned the content of the lecture
 * Made the project using free assets for the visuals and **my own logic** for the character movement and grappling hook (custom C# scripts).
 * Held a lecture at the Faculty of Organizational Sciences using the project walking students through the implementation of a grappling hook mechanic
-* You can find an online version of the lecture in serbian here: **NOTE: It's only available in serbian.**
+* You can find an online version of the lecture in serbian [here.](https://drive.google.com/file/d/1uv7It6UvufXwlgXRfvzylvtX7iIfhY3D/view?usp=drive_link) **NOTE: It's only available in serbian.**
 
 ---
 
