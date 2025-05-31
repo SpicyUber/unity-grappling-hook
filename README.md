@@ -5,6 +5,7 @@
 ## About
 
 Grappling hook project used during the second unity lecture in the Simulation and simulation languages course at the Faculty of Organizational Sciences (A mandatory 4th year course for the students taking the information systems and technologies module). The point of the project is teaching students how to approach **implementing game mechanics in a 3D environment** and also getting the students more comfortable with **Unity's physics system**.
+The goal of the actual game is to get to the cupcake using a grappling hook.
 
 ---
 
